@@ -1,0 +1,95 @@
+﻿
+#playerScore {
+    position: absolute;
+    top: 325px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 32px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+}
+
+#playerLives {
+    position: absolute;
+    top: 375px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 32px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+}
+
+#levelNumber {
+    position: absolute;
+    top: 425px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 32px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+}
+
+#highScore {
+    position: absolute;
+    top: 475px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 32px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+}
+
+#inverted {
+    position: absolute;
+    top: 525px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 24px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+    visibility: hidden;
+}
+
+#spedUp {
+    position: absolute;
+    top: 575px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 20px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+    visibility: hidden;
+}
+
+#slowedDown {
+    position: absolute;
+    top: 625px;
+    right: 485px;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    display: block;
+    font-size: 24px;
+    font-family: sans-serif, 'Microsoft Sans Serif';
+    color: white;
+    visibility: hidden;
+}
+
